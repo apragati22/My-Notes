@@ -1,0 +1,3 @@
+Contains my handwritten notes for the course CS633- Parallel Computing, taught by **Prof. Preeti Malakar** during the 2024-25-II semester.
+
+For assignments submitted in this course, kindly refer to [this repo](https://github.com/apragati22/CS633_Assignment).
